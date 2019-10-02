@@ -1,0 +1,9 @@
+syntax = "proto2";
+package go-kafka-client/model
+
+message Message {
+  required int32 id = 1;
+  required string name = 2;
+  required string email = 3;
+}
+
