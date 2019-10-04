@@ -1,5 +1,5 @@
 syntax = "proto2";
-package go-kafka-client/model
+package model;
 
 message Message {
   required int32 id = 1;
