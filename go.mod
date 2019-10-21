@@ -1,4 +1,4 @@
-module go-kafka-client
+module gkafka
 
 go 1.13
 

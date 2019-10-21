@@ -1,7 +1,7 @@
 package main
 
 import (
-	"go-kafka-client/model"
+	"gkafka/model"
 	"log"
 	"github.com/golang/protobuf/proto"
 )
